@@ -1,5 +1,5 @@
 
-# Spotify Data Analysis Project
+# Spotify Data Analysis Project (Python)
 
 ## Overview
 This project involves analyzing a dataset of music tracks to derive insights and patterns. The dataset initially exists in a `.db` format containing various metadata about music tracks. The primary objective is to explore this database using SQL, enrich it with additional information from the Spotify API, and then conduct a short data analysis.
